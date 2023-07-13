@@ -1,5 +1,5 @@
 <template>
-    <GuestLayout title="Request new password">
+    <GuestLayout title="Set new password">
         <form class="space-y-6" action="#" method="POST">
             <input type="hidden" name="remember" value="true"/>
             <label for="email" class="block text-sm font-medium leading-6 text-gray-900">Email address</label>
